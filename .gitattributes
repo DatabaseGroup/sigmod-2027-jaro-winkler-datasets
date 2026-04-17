@@ -1,0 +1,6 @@
+dblp-authors.txt filter=lfs diff=lfs merge=lfs -text
+dblp-titles-string.txt filter=lfs diff=lfs merge=lfs -text
+company_names_shuffled.csv filter=lfs diff=lfs merge=lfs -text
+shuffled-job-titles.csv filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
