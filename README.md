@@ -1,4 +1,5 @@
 # String Datasets for "Joining Large String Collections with Jaro-Winkler Similarity"
+[![DOI](https://zenodo.org/badge/1425364940.svg)](https://doi.org/10.5281/zenodo.23470061)
 
 This repository contains the benchmark datasets used in the paper:
 
